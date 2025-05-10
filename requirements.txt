@@ -1,0 +1,21 @@
+# Core
+pandas
+numpy
+matplotlib
+tqdm
+
+# API
+google-api-python-client
+python-dotenv
+
+# NLP / ML
+torch
+transformers
+scikit-learn
+
+# Web App
+streamlit
+
+# Optional (used for cleaning or visualization)
+seaborn
+nltk
